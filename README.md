@@ -1,5 +1,5 @@
 # 💫 &nbsp; About Me
-👨‍💻 &nbsp; Software Engineered  
+👨‍💻 &nbsp; Software Engineer  
 💼 &nbsp; Open to Job Opportunities  
 🌎 &nbsp; Passionate about learning and exploring new technologies  
 
