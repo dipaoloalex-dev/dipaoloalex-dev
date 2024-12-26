@@ -1,5 +1,5 @@
 # 💫 &nbsp; About Me
-👨‍💻 &nbsp; Frontend Web Developer  
+👨‍💻 &nbsp; Software Engineered  
 💼 &nbsp; Open to Job Opportunities  
 🌎 &nbsp; Passionate about learning and exploring new technologies  
 
