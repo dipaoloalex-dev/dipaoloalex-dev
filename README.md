@@ -1,6 +1,6 @@
 # 💫 &nbsp; Chi sono
 👨‍💻 &nbsp; Software Engineer  
-💼 &nbsp; Alla ricerca di nuove opportunità professionali
+💼 &nbsp; Alla ricerca di nuove opportunità professionali  
 🌎 &nbsp; Appassionato di apprendimento e scoperta di nuove tecnologie
 
 ## 🛠️ &nbsp; Skills
