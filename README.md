@@ -1,7 +1,7 @@
 # 💫 &nbsp; Chi sono
 👨‍💻 &nbsp; Software Engineer  
 💼 &nbsp; Alla ricerca di nuove opportunità professionali  
-🌎 &nbsp; Appassionato di apprendimento e scoperta di nuove tecnologie
+🌎 &nbsp; Appassionato nell'esplorare nuove conoscenze e innovazioni tecnologiche
 
 ## 🛠️ &nbsp; Skills
 - **Sviluppo Front-End:** Languages ( HTML, CSS, JavaScript ), Frameworks and Libraries ( Tailwind, jQuery )
