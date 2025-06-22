@@ -1,5 +1,5 @@
 # 💫 &nbsp; Chi sono
-👨‍💻 &nbsp; Full Stack Developer  
+👨‍💻 &nbsp; Junior Developer  
 💼 &nbsp; Alla ricerca di nuove opportunità professionali  
 🌎 &nbsp; Appassionato nell'esplorare nuove conoscenze e innovazioni tecnologiche
 
