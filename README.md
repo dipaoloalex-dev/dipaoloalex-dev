@@ -1,5 +1,5 @@
 # 💫 &nbsp; Chi sono
-👨‍💻 &nbsp; Software Engineer  
+👨‍💻 &nbsp; Full Stack Developer  
 💼 &nbsp; Alla ricerca di nuove opportunità professionali  
 🌎 &nbsp; Appassionato nell'esplorare nuove conoscenze e innovazioni tecnologiche
 
