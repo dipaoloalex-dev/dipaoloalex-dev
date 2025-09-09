@@ -1,5 +1,5 @@
 # 💫 &nbsp; Chi sono
-👨‍💻 &nbsp; Junior Developer  
+👨‍💻 &nbsp; Web Developer  
 🌎 &nbsp; Appassionato nell'esplorare nuove conoscenze e innovazioni tecnologiche
 
 ## 🛠️ &nbsp; Skills
