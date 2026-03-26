@@ -1,5 +1,5 @@
 # 💫 &nbsp; Chi sono
-👨‍💻 &nbsp; Web Developer  
+👨‍💻 &nbsp; Software Developer  
 🌎 &nbsp; Appassionato nell'esplorare nuove conoscenze e innovazioni tecnologiche
 
 ## 🛠️ &nbsp; Skills
