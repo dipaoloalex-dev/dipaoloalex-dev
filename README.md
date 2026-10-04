@@ -1,7 +1,5 @@
 # Alex Di Paolo | Software Developer & IT System Designer 🚀
 
-> Ingegneria Full-Stack & Progettazione di Sistemi
-
 Software Developer e IT System Designer con esperienza nella progettazione e sviluppo di ecosistemi web complessi in contesti ingegneristici. Gestisco l'intero ciclo di vita del software (SDLC), dall'architettura al rilascio in produzione, realizzando piattaforme gestionali su misura che coniugano solidità strutturale, scalabilità, interoperabilità e un'ottima esperienza utente.
 
 ---
