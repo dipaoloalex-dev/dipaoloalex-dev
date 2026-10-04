@@ -6,8 +6,6 @@ Software Developer e IT System Designer con esperienza nella progettazione e svi
 
 ### 🏢 Esperienza — NETCaring s.r.l.
 
-<span>09/2025 - Presente</span>
-
 #### [Athena](https://athena.abbonamentomusei.it/login) | Piattaforma di Biglietteria e Controllo Accessi Museali
 
 Piattaforma web multi-livello per la centralizzazione di vendita, gestione e controllo accessi ai servizi museali, adottata dall'[Associazione Abbonamento Musei](https://abbonamentomusei.it/) e [Turismo Torino e Provincia](https://turismotorino.org/it).
