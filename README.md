@@ -62,7 +62,3 @@ Piattaforma per raccolta, valutazione e tracciabilità dei parametri ESG, orient
 * **LinkedIn:** [linkedin.com/in/alex-di-paolo](https://www.linkedin.com/in/alex-di-paolo)
 * **GitHub:** [github.com/dipaoloalex-dev](https://github.com/dipaoloalex-dev)
 * **Email:** [dipaoloalex.dev@gmail.com](mailto:dipaoloalex.dev@gmail.com)
-
----
-
-> "Progetto sistemi, non solo codice: dall'architettura al rilascio."
