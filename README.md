@@ -59,7 +59,7 @@ Piattaforma per raccolta, valutazione e tracciabilità dei parametri ESG, orient
 
 ### ⭐ Supporta i miei progetti
 
-Ti sono stati utili o ti hanno ispirato? Lascia una **stella ⭐ su [GitHub](https://github.com/dipaoloalex-dev)** per supportare i miei progetti e aiutarmi a farli crescere. Grazie! 🙏
+Ti sono stati utili o ti hanno ispirato? Lascia una **stella ⭐ su [GitHub](https://github.com/dipaoloalex-dev)** per supportare i miei progetti e aiutarmi a farli crescere. Grazie!
 
 ---
 
