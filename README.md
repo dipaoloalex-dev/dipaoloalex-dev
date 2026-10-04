@@ -41,7 +41,7 @@ Piattaforma per raccolta, valutazione e tracciabilità dei parametri ESG, orient
 * **Dal Carta al Digitale:** interfaccia che replica fedelmente il layout cartaceo per la compilazione collaborativa su più turni.
 * **Firma Irreversibile:** firma delle misurazioni (stato Read-Only, marca temporale, ID operatore) con permessi granulari e report PDF automatici.
 
-#### 🖥️ Kairos TechLab | Sito Web Aziendale
+#### 🖥️ [Kairos TechLab](https://kairostechlab.it/) | Sito Web Aziendale
 
 * Sito aziendale in WordPress con navigazione single-page, form di contatto funzionante e pagine Privacy Policy / Termini e Condizioni.
 
@@ -65,6 +65,6 @@ Ti sono stati utili o ti hanno ispirato? Lascia una **stella ⭐ su [GitHub](htt
 
 ### 📬 Contatti
 
-* 💼 **LinkedIn:** [linkedin.com/in/alex-di-paolo](https://www.linkedin.com/in/alex-di-paolo)
-* 🐙 **GitHub:** [github.com/dipaoloalex-dev](https://github.com/dipaoloalex-dev)
-* 📧 **Email:** [dipaoloalex.dev@gmail.com](mailto:dipaoloalex.dev@gmail.com)
+* **LinkedIn:** [linkedin.com/in/alex-di-paolo](https://www.linkedin.com/in/alex-di-paolo)
+* **GitHub:** [github.com/dipaoloalex-dev](https://github.com/dipaoloalex-dev)
+* **Email:** [dipaoloalex.dev@gmail.com](mailto:dipaoloalex.dev@gmail.com)
