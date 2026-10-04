@@ -8,13 +8,13 @@ Software Developer e IT System Designer con esperienza nella progettazione e svi
 
 #### 🎟️ Athena | Piattaforma di Biglietteria e Controllo Accessi Museali
 
-Piattaforma web multi-livello per la centralizzazione di vendita, gestione e controllo accessi ai servizi museali, adottata dall'[Associazione Abbonamento Musei](https://abbonamentomusei.it/) e [Turismo Torino e Provincia](https://turismotorino.org/it).
+Piattaforma web multi-livello per la centralizzazione di vendita, gestione e controllo accessi ai servizi museali, adottata dall'Associazione Abbonamento Musei e Turismo Torino e Provincia.
 
 * **Infrastruttura Scalabile:** Laravel 11, PHP 8.2 e database relazionali (MS SQL Server, MySQL 8.0) su ambienti distribuiti Apache / Tomcat 8.5.
 * **Ecosistema Centralizzato:** biglietteria integrata (e-commerce, punti vendita, chioschi) via Web Services con siti, POS bancari e piattaforme di terze parti.
 * **App Android in Modalità Kiosk:** motore di validazione QR code con anti-passback e sincronizzazione online/offline.
 
-#### ✈️ [SkyFly](https://skyfly.netcaring.it/) | Sistema di Trading di Parti Aeronautiche
+#### ✈️ SkyFly | Sistema di Trading di Parti Aeronautiche
 
 Gestionale web verticale per il trading internazionale di parti di ricambio aeronautiche.
 
@@ -41,7 +41,7 @@ Piattaforma per raccolta, valutazione e tracciabilità dei parametri ESG, orient
 * **Dal Carta al Digitale:** interfaccia che replica fedelmente il layout cartaceo per la compilazione collaborativa su più turni.
 * **Firma Irreversibile:** firma delle misurazioni (stato Read-Only, marca temporale, ID operatore) con permessi granulari e report PDF automatici.
 
-#### 🖥️ [Kairos TechLab](https://kairostechlab.it/) | Sito Web Aziendale
+#### 🖥️ Kairos TechLab | Sito Web Aziendale
 
 * Sito aziendale in WordPress con navigazione single-page, form di contatto funzionante e pagine Privacy Policy / Termini e Condizioni.
 
