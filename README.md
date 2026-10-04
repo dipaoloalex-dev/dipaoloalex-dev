@@ -10,40 +10,40 @@ Software Developer e IT System Designer con esperienza nella progettazione e svi
 
 Piattaforma web multi-livello per la centralizzazione di vendita, gestione e controllo accessi ai servizi museali, adottata dall'[Associazione Abbonamento Musei](https://abbonamentomusei.it/) e [Turismo Torino e Provincia](https://turismotorino.org/it).
 
-* 🧱 **Infrastruttura Scalabile:** Laravel 11, PHP 8.2 e database relazionali (MS SQL Server, MySQL 8.0) su ambienti distribuiti Apache / Tomcat 8.5.
-* 🎫 **Ecosistema Centralizzato:** biglietteria integrata (e-commerce, punti vendita, chioschi) via Web Services con siti, POS bancari e piattaforme di terze parti.
-* 📱 **App Android in Modalità Kiosk:** motore di validazione QR code con anti-passback e sincronizzazione online/offline.
+* **Infrastruttura Scalabile:** Laravel 11, PHP 8.2 e database relazionali (MS SQL Server, MySQL 8.0) su ambienti distribuiti Apache / Tomcat 8.5.
+* **Ecosistema Centralizzato:** biglietteria integrata (e-commerce, punti vendita, chioschi) via Web Services con siti, POS bancari e piattaforme di terze parti.
+* **App Android in Modalità Kiosk:** motore di validazione QR code con anti-passback e sincronizzazione online/offline.
 
 #### ✈️ [SkyFly](https://skyfly.netcaring.it/) | Sistema di Trading di Parti Aeronautiche
 
 Gestionale web verticale per il trading internazionale di parti di ricambio aeronautiche.
 
-* 🔍 **Tracciabilità:** Part Number e Serial Number con calcolo automatico della vita utile residua (Time/Cycles Remaining) per le Life Limited Parts (LLP).
-* 🌍 **Conformità all'Export:** alert su classificazioni doganali, normative EAR/ITAR ed End User Certificate.
-* 📄 **Automazione Documentale:** generazione server-side di documentazione PDF (ATA 106, Packing List, fatture in USD) con invio SMTP automatizzato.
+* **Tracciabilità:** Part Number e Serial Number con calcolo automatico della vita utile residua (Time/Cycles Remaining) per le Life Limited Parts (LLP).
+* **Conformità all'Export:** alert su classificazioni doganali, normative EAR/ITAR ed End User Certificate.
+* **Automazione Documentale:** generazione server-side di documentazione PDF (ATA 106, Packing List, fatture in USD) con invio SMTP automatizzato.
 
 #### 🌱 ESGATE | Piattaforma di Valutazione ESG
 
 Piattaforma per raccolta, valutazione e tracciabilità dei parametri ESG, orientata alla riproducibilità deterministica dei risultati.
 
-* ⚙️ **Motore di Valutazione:** librerie KPI versionate con pesatura e normalizzazione automatica.
-* 🧩 **Applicabilità Dinamica:** validazione delle evidenze documentali su 6 livelli gerarchici.
-* ✅ **Conformità:** reportistica allineata ai framework CSRD, ESRS e VSME, con architettura RBAC e registro operazioni immutabile.
+* **Motore di Valutazione:** librerie KPI versionate con pesatura e normalizzazione automatica.
+* **Applicabilità Dinamica:** validazione delle evidenze documentali su 6 livelli gerarchici.
+* **Conformità:** reportistica allineata ai framework CSRD, ESRS e VSME, con architettura RBAC e registro operazioni immutabile.
 
 #### 💼 EasyWork | Suite per la Digitalizzazione dei Processi Aziendali
 
-* ☁️ **Soluzione Cloud All-in-one:** infrastruttura web distribuita con app mobili native (iOS/Android) per notifiche push real-time e consultazione sicura di comunicazioni e cedolini.
-* 🔄 **Motore di Workflow:** approvazione multilivello di ferie, permessi e malattie, con timbratura digitale e geolocalizzazione sicura.
-* 📊 **Dashboard:** diagrammi di Gantt per task e milestone, integrazione via Web Services con ERP e software paghe di terze parti.
+* **Soluzione Cloud All-in-one:** infrastruttura web distribuita con app mobili native (iOS/Android) per notifiche push real-time e consultazione sicura di comunicazioni e cedolini.
+* **Motore di Workflow:** approvazione multilivello di ferie, permessi e malattie, con timbratura digitale e geolocalizzazione sicura.
+* **Dashboard:** diagrammi di Gantt per task e milestone, integrazione via Web Services con ERP e software paghe di terze parti.
 
 #### 💧 Akerus S.C.A.R.L | Registri Digitali per Impianto di Depurazione
 
-* 📝 **Dal Carta al Digitale:** interfaccia che replica fedelmente il layout cartaceo per la compilazione collaborativa su più turni.
-* ✍️ **Firma Irreversibile:** firma delle misurazioni (stato Read-Only, marca temporale, ID operatore) con permessi granulari e report PDF automatici.
+* **Dal Carta al Digitale:** interfaccia che replica fedelmente il layout cartaceo per la compilazione collaborativa su più turni.
+* **Firma Irreversibile:** firma delle misurazioni (stato Read-Only, marca temporale, ID operatore) con permessi granulari e report PDF automatici.
 
-#### 🌐 Kairos TechLab | Sito Web Aziendale
+#### 🖥️ Kairos TechLab | Sito Web Aziendale
 
-* 🖥️ Sito aziendale in WordPress con navigazione single-page, form di contatto funzionante e pagine Privacy Policy / Termini e Condizioni.
+* Sito aziendale in WordPress con navigazione single-page, form di contatto funzionante e pagine Privacy Policy / Termini e Condizioni.
 
 ---
 
