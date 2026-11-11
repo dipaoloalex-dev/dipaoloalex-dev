@@ -14,7 +14,7 @@ Piattaforma web multi-livello per la centralizzazione di vendita, gestione e con
 * **Ecosistema Centralizzato:** biglietteria integrata (e-commerce, punti vendita, chioschi) via Web Services con siti, POS bancari e piattaforme di terze parti.
 * **App Android in Modalità Kiosk:** motore di validazione QR code con anti-passback e sincronizzazione online/offline.
 
-#### ✈️ SkyFly | Sistema di Trading di Parti Aeronautiche
+#### ✈️ Sky Fly | Sistema di Trading di Parti Aeronautiche
 
 Gestionale web verticale per il trading internazionale di parti di ricambio aeronautiche.
 
@@ -30,18 +30,18 @@ Piattaforma per raccolta, valutazione e tracciabilità dei parametri ESG, orient
 * **Applicabilità Dinamica:** validazione delle evidenze documentali su 6 livelli gerarchici.
 * **Conformità:** reportistica allineata ai framework CSRD, ESRS e VSME, con architettura RBAC e registro operazioni immutabile.
 
-#### 💼 EasyWork | Suite per la Digitalizzazione dei Processi Aziendali
+#### 💼 Easy Work | Suite per la Digitalizzazione dei Processi Aziendali
 
 * **Soluzione Cloud All-in-one:** infrastruttura web distribuita con app mobili native (iOS/Android) per notifiche push real-time e consultazione sicura di comunicazioni e cedolini.
 * **Motore di Workflow:** approvazione multilivello di ferie, permessi e malattie, con timbratura digitale e geolocalizzazione sicura.
 * **Dashboard:** diagrammi di Gantt per task e milestone, integrazione via Web Services con ERP e software paghe di terze parti.
 
-#### 💧 Akerus S.C.A.R.L | Registri Digitali per Impianto di Depurazione
+#### 💧 Akerus | Registri Digitali per Impianto di Depurazione
 
 * **Dal Carta al Digitale:** interfaccia che replica fedelmente il layout cartaceo per la compilazione collaborativa su più turni.
 * **Firma Irreversibile:** firma delle misurazioni (stato Read-Only, marca temporale, ID operatore) con permessi granulari e report PDF automatici.
 
-#### 🖥️ Kairos TechLab | Sito Web Aziendale
+#### 🖥️ Kairos Tech Lab | Sito Web Aziendale
 
 * Sito aziendale in WordPress con navigazione single-page, form di contatto funzionante e pagine Privacy Policy / Termini e Condizioni.
 
