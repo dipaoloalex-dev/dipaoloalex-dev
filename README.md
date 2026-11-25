@@ -14,6 +14,17 @@ Piattaforma web multi-livello per la centralizzazione di vendita, gestione e con
 * **Ecosistema Centralizzato:** biglietteria integrata (e-commerce, punti vendita, chioschi) via Web Services con siti, POS bancari e piattaforme di terze parti.
 * **App Android in Modalità Kiosk:** motore di validazione QR code con anti-passback e sincronizzazione online/offline.
 
+#### 💼 Easy Work | Suite per la Digitalizzazione dei Processi Aziendali
+
+* **Soluzione Cloud All-in-one:** infrastruttura web distribuita con app mobili native (iOS/Android) per notifiche push real-time e consultazione sicura di comunicazioni e cedolini.
+* **Motore di Workflow:** approvazione multilivello di ferie, permessi e malattie, con timbratura digitale e geolocalizzazione sicura.
+* **Dashboard:** diagrammi di Gantt per task e milestone, integrazione via Web Services con ERP e software paghe di terze parti.
+
+#### 💧 Akerus | Registri Digitali per Impianto di Depurazione
+
+* **Dal Carta al Digitale:** interfaccia che replica fedelmente il layout cartaceo per la compilazione collaborativa su più turni.
+* **Firma Irreversibile:** firma delle misurazioni (stato Read-Only, marca temporale, ID operatore) con permessi granulari e report PDF automatici.
+
 #### ✈️ Sky Fly | Sistema di Trading di Parti Aeronautiche
 
 Gestionale web verticale per il trading internazionale di parti di ricambio aeronautiche.
@@ -30,16 +41,13 @@ Piattaforma per raccolta, valutazione e tracciabilità dei parametri ESG, orient
 * **Applicabilità Dinamica:** validazione delle evidenze documentali su 6 livelli gerarchici.
 * **Conformità:** reportistica allineata ai framework CSRD, ESRS e VSME, con architettura RBAC e registro operazioni immutabile.
 
-#### 💼 Easy Work | Suite per la Digitalizzazione dei Processi Aziendali
+#### 🛰️ Magis | Piattaforma IoT Multi-Tenant Geografica
 
-* **Soluzione Cloud All-in-one:** infrastruttura web distribuita con app mobili native (iOS/Android) per notifiche push real-time e consultazione sicura di comunicazioni e cedolini.
-* **Motore di Workflow:** approvazione multilivello di ferie, permessi e malattie, con timbratura digitale e geolocalizzazione sicura.
-* **Dashboard:** diagrammi di Gantt per task e milestone, integrazione via Web Services con ERP e software paghe di terze parti.
+Piattaforma IoT multi-tenant per il monitoraggio di dispositivi connessi, telemetria e allarmi su mappe geografiche live, con dashboard dedicate a tenant e amministratori.
 
-#### 💧 Akerus | Registri Digitali per Impianto di Depurazione
-
-* **Dal Carta al Digitale:** interfaccia che replica fedelmente il layout cartaceo per la compilazione collaborativa su più turni.
-* **Firma Irreversibile:** firma delle misurazioni (stato Read-Only, marca temporale, ID operatore) con permessi granulari e report PDF automatici.
+* **Gestione Centralizzata IoT:** backend con API Gateway in Go integrato a backend IoT dedicato, autenticazione centralizzata e permessi granulari, con database time-series e messaggistica real-time.
+* **Mappe Live e Monitoraggio Real-Time:** web app React con mappe interattive live e supporto multilingua per visualizzare stato, posizione e telemetria dei dispositivi.
+* **Integrazione Edge Industriale:** connessione a sensori e impianti di fabbrica anche via reti LoRaWAN, con sincronizzazione online/offline, provisioning automatico e backup schedulati.
 
 #### 🖥️ Kairos Tech Lab | Sito Web Aziendale
 
