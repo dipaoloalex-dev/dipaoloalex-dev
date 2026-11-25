@@ -10,7 +10,7 @@ Software Developer e IT System Designer con esperienza nella progettazione e svi
 
 Piattaforma web multi-livello per la centralizzazione di vendita, gestione e controllo accessi ai servizi museali, adottata dall'Associazione Abbonamento Musei e Turismo Torino e Provincia.
 
-* **Infrastruttura Scalabile:** Laravel 11, PHP 8.2 e database relazionali (MS SQL Server, MySQL 8.0) su ambienti distribuiti Apache / Tomcat 8.5.
+* **Infrastruttura Scalabile:** Laravel 11, PHP 8.3 e database relazionali (MS SQL Server, MySQL 8.0) su ambienti distribuiti Apache / Tomcat 8.5.
 * **Ecosistema Centralizzato:** biglietteria integrata (e-commerce, punti vendita, chioschi) via Web Services con siti, POS bancari e piattaforme di terze parti.
 * **App Android in Modalità Kiosk:** motore di validazione QR code con anti-passback e sincronizzazione online/offline.
 
